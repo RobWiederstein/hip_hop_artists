@@ -1,4 +1,6 @@
-[![Map Hip Hop Artists](img/hip_hop_map.png)](https://www.robwiederstein.org)
+[![Map Hip Hop Artists](img/hip_hop_map.png)](https://robwiederstein.github.io/hip_hop_artists/)
+
+Click [here](https://robwiederstein.github.io/hip_hop_artists/) for working map.
 
 # Data Visualization Project for Murdered Hip-hop Artists
 
@@ -12,7 +14,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rob Wiederstein - [@https://twitter.com/RobWiederstein](https://twitter.com/your_username) - rob@robwiederstein.org
 
-Project Link: <https://github.com/RobWiederstein/sample-R-workflow>
+Project Link: <https://github.com/RobWiederstein/hip_hop_artists>
 
 ## Acknowledgements
 
