@@ -1,0 +1,581 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.24908290408,33.9606134247767 ]
+    },
+    "properties": {
+    "dateOfDeath":"2020-02-19",
+    "name":"Pop Smoke",
+    "age":20,
+    "cause":"Shot and killed",
+    "city":"Los Angeles",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.25159688227,33.9667740302442 ]
+    },
+    "properties": {
+    "dateOfDeath":"2019-03-31",
+    "name":"Nipsey Hussle",
+    "age":33,
+    "cause":"Shot and killed",
+    "city":"Los Angeles",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0859024606442,29.9466717012402 ]
+    },
+    "properties": {
+    "dateOfDeath":"2018-10-29",
+    "name":"Young Greatness",
+    "age":34,
+    "cause":"Shot and killed",
+    "city":"New Orleans",
+    "state":"Louisiana",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.09787,26.311102 ]
+    },
+    "properties": {
+    "dateOfDeath":"2018-06-18",
+    "name":"XXXTentacion",
+    "age":20,
+    "cause":"Shot and killed",
+    "city":"Deerfield Beach",
+    "state":"Florida",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.950968,40.47441 ]
+    },
+    "properties": {
+    "dateOfDeath":"2018-06-18",
+    "name":"Jimmy Wopo",
+    "age":21,
+    "cause":"Shot and killed",
+    "city":"Pittsburgh",
+    "state":"Pennsylvania",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.308780619215,29.8111323297041 ]
+    },
+    "properties": {
+    "dateOfDeath":"2016-11-10",
+    "name":"3-2",
+    "age":44,
+    "cause":"Shot and killed",
+    "city":"Houston",
+    "state":"Texas",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.47405,33.844371 ]
+    },
+    "properties": {
+    "dateOfDeath":"2016-03-04",
+    "name":"Bankroll Fresh",
+    "age":28,
+    "cause":"Shot and killed",
+    "city":"Atlanta",
+    "state":"Georgia",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0312968938649,40.6892296960804 ]
+    },
+    "properties": {
+    "dateOfDeath":"2015-05-17",
+    "name":"Chinx Drugz",
+    "age":31,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.232529352571,37.7768846269949 ]
+    },
+    "properties": {
+    "dateOfDeath":"2015-02-02",
+    "name":"The Jacka",
+    "age":37,
+    "cause":"Shot and killed",
+    "city":"Oakland",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.257817,32.356988 ]
+    },
+    "properties": {
+    "dateOfDeath":"2013-12-28",
+    "name":"Doe B",
+    "age":22,
+    "cause":"Shot and killed",
+    "city":"Montgomery",
+    "state":"Alabama",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.378538,33.924269 ]
+    },
+    "properties": {
+    "dateOfDeath":"2012-06-07",
+    "name":"Lil Phat",
+    "age":19,
+    "cause":"Shot and killed",
+    "city":"Sandy Springs",
+    "state":"Georgia",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0797745917526,29.9440445140867 ]
+    },
+    "properties": {
+    "dateOfDeath":"2010-12-20",
+    "name":"Magnolia Shorty",
+    "age":28,
+    "cause":"Shot and killed",
+    "city":"New Orleans",
+    "state":"Louisiana",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.254840110726,33.9647385365934 ]
+    },
+    "properties": {
+    "dateOfDeath":"2009-05-18",
+    "name":"Dolla",
+    "age":21,
+    "cause":"Shot and killed",
+    "city":"Los Angeles",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0900503224654,29.9476763553658 ]
+    },
+    "properties": {
+    "dateOfDeath":"2008-04-20",
+    "name":"VL Mike",
+    "age":32,
+    "cause":"Shot and killed",
+    "city":"New Orleans",
+    "state":"Louisiana",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3101607046485,29.8137437320115 ]
+    },
+    "properties": {
+    "dateOfDeath":"2006-05-01",
+    "name":"Big Hawk",
+    "age":36,
+    "cause":"Shot and killed",
+    "city":"Houston",
+    "state":"Texas",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0627240854284,42.3416753523623 ]
+    },
+    "properties": {
+    "dateOfDeath":"2006-04-11",
+    "name":"Proof",
+    "age":32,
+    "cause":"Shot and killed",
+    "city":"Detroit",
+    "state":"Michigan",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0639786781517,42.3392466507598 ]
+    },
+    "properties": {
+    "dateOfDeath":"2005-04-19",
+    "name":"Blade Icewood",
+    "age":28,
+    "cause":"Shot and killed",
+    "city":"Detroit",
+    "state":"Michigan",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.598583,39.102404 ]
+    },
+    "properties": {
+    "dateOfDeath":"2004-11-01",
+    "name":"Mac Dre",
+    "age":34,
+    "cause":"Shot and killed",
+    "city":"Kansas City",
+    "state":"Missouri",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0857966175592,29.9546078463574 ]
+    },
+    "properties": {
+    "dateOfDeath":"2003-11-26",
+    "name":"Soulja Slim",
+    "age":26,
+    "cause":"Shot and killed",
+    "city":"New Orleans",
+    "state":"Louisiana",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0247004777437,40.6857801803329 ]
+    },
+    "properties": {
+    "dateOfDeath":"2003-10-24",
+    "name":"Half a Mill",
+    "age":30,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.088261,32.074679 ]
+    },
+    "properties": {
+    "dateOfDeath":"2003-05-19",
+    "name":"Camoflauge",
+    "age":21,
+    "cause":"Shot and killed",
+    "city":"Savannah",
+    "state":"Georgia",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.021042710065,40.682694419325 ]
+    },
+    "properties": {
+    "dateOfDeath":"2002-10-30",
+    "name":"Jam Master Jay",
+    "age":37,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.458168,25.558428 ]
+    },
+    "properties": {
+    "dateOfDeath":"2001-09-10",
+    "name":"DJ Uncle Al",
+    "age":32,
+    "cause":"Shot and killed",
+    "city":"Miami",
+    "state":"Florida",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.629101,42.984226 ]
+    },
+    "properties": {
+    "dateOfDeath":"1999-05-21",
+    "name":"Bugz",
+    "age":21,
+    "cause":"Shot and run over",
+    "city":"Grand Rapids",
+    "state":"Michigan",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0311825731728,40.6889489555975 ]
+    },
+    "properties": {
+    "dateOfDeath":"1999-03-28",
+    "name":"Freaky Tah",
+    "age":27,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0227424387137,40.6869501503967 ]
+    },
+    "properties": {
+    "dateOfDeath":"1999-02-15",
+    "name":"Big L",
+    "age":24,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3112734810316,29.8017566436188 ]
+    },
+    "properties": {
+    "dateOfDeath":"1998-02-03",
+    "name":"Fat Pat",
+    "age":27,
+    "cause":"Shot and killed",
+    "city":"Houston",
+    "state":"Texas",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.254129105576,33.9655937007485 ]
+    },
+    "properties": {
+    "dateOfDeath":"1997-03-09",
+    "name":"The Notorious B.I.G.",
+    "age":24,
+    "cause":"Shot and killed",
+    "city":"Los Angeles",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.23674,40.7704 ]
+    },
+    "properties": {
+    "dateOfDeath":"1996-11-10",
+    "name":"Yaki Kadafi",
+    "age":19,
+    "cause":"Shot and killed",
+    "city":"Orange",
+    "state":"New Jersey",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.10647,36.17372 ]
+    },
+    "properties": {
+    "dateOfDeath":"1996-09-13",
+    "name":"Tupac Shakur",
+    "age":25,
+    "cause":"Shot and killed",
+    "city":"Las Vegas",
+    "state":"Nevada",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.233697428262,37.7776334889543 ]
+    },
+    "properties": {
+    "dateOfDeath":"1996-07-31",
+    "name":"Seagram",
+    "age":26,
+    "cause":"Shot and killed",
+    "city":"Oakland",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0280897804836,40.682213242104 ]
+    },
+    "properties": {
+    "dateOfDeath":"1995-11-30",
+    "name":"Stretch",
+    "age":27,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.861989,37.436454 ]
+    },
+    "properties": {
+    "dateOfDeath":"1993-12-16",
+    "name":"Charizma",
+    "age":20,
+    "cause":"Shot and killed",
+    "city":"Milpitas",
+    "state":"California",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.790329,32.781179 ]
+    },
+    "properties": {
+    "dateOfDeath":"1990-10-06",
+    "name":"D-Boy Rodriguez",
+    "age":22,
+    "cause":"Shot and killed",
+    "city":"Dallas",
+    "state":"Texas",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.028372315116,40.6810149242559 ]
+    },
+    "properties": {
+    "dateOfDeath":"1989-07-17",
+    "name":"Paul C",
+    "age":24,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0325806829286,40.6901287162019 ]
+    },
+    "properties": {
+    "dateOfDeath":"1987-08-27",
+    "name":"Scott La Rock",
+    "age":25,
+    "cause":"Shot and killed",
+    "city":"New York City",
+    "state":"New York",
+    "country":"U.S."
+    }
+  }
+]
+}
